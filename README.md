@@ -1,3 +1,2 @@
 # test
-fff
-jebać pis
+To jest moje pierwsze repozytorium!
